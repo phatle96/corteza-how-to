@@ -9,8 +9,8 @@ Hello there, you are reading the Coreza How-to guide, you can start with this gu
 ****
 # Corteza How-to Guide:
 
-## 1. Briefing Corteza Document
-
+<details>
+<summary><h2>1. Briefing Corteza Document</h2></summary>
 **1. Overview: Corteza as a Trustworthy Low-Code Platform**
 
 - **Core Concept:** Corteza is presented as an open-source, self-hosted, low-code development platform focused on user control, security, and continuous development in the user's best interests. The core value proposition is that it's "indisputably trustworthy".
@@ -21,6 +21,7 @@ Hello there, you are reading the Coreza How-to guide, you can start with this gu
 - Open-Source
 - Powerful Access Control & Security
 - Extensive Customization Options
+</details>
 
 **2. Core Functionality and Components**
 
