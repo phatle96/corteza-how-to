@@ -564,10 +564,10 @@ By configuring the `httpRequest` function step with the appropriate parameters, 
 
 ## 1. How to make a call to an external API whenever a Corteza user takes an action with a record
 
-Example: http://192.46.224.41:18080/workflow/421739152120217601/edit
-Workflow template: [Record trigger.json](<workflow templates/Record trigger.json>)
+- Example: http://192.46.224.41:18080/workflow/421739152120217601/edit/
+- Workflow template: [Record trigger.json](<workflow templates/Record trigger.json>)
 
 ## 2. How to trigger the record adding using Corteza Webhook (Integrated gateway)
 
-Example: http://192.46.224.41:18080/workflow/420730954534879233/edit
-Workflow template: [trigger-record-adding.json](<workflow templates/trigger-record-adding.json>)
+- Example: http://192.46.224.41:18080/workflow/420730954534879233/edit/
+- Workflow template: [trigger-record-adding.json](<workflow templates/trigger-record-adding.json>)
