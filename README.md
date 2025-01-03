@@ -9,20 +9,20 @@ Hello there, you are reading the Coreza How-to guide, you can start with this gu
 ****
 # Corteza How-to Guide:
 
-<details>
-<summary><h2>1. Briefing Corteza Document</h2></summary>
-### 1. Overview: Corteza as a Trustworthy Low-Code Platform
+## 1. Briefing Corteza Document
+
+**1. Overview: Corteza as a Trustworthy Low-Code Platform**
 
 - **Core Concept:** Corteza is presented as an open-source, self-hosted, low-code development platform focused on user control, security, and continuous development in the user's best interests. The core value proposition is that it's "indisputably trustworthy".
 - **Quote:** "Corteza aims to be **indisputably trustworthy** in its motivations and its approach to design, development and maintenance of the platform. Organisations should feel that their chosen digital work platform is always **under their control** , always **protected** and continuously **developed in their best interests** ."
 - **Target Audience:** The platform is designed for organizations seeking a customizable and secure digital work platform they can control directly.
-- **Key Features:** Low-Code Development
+- **Key Features:**Low-Code Development
 - Self-Hosted
 - Open-Source
 - Powerful Access Control & Security
 - Extensive Customization Options
 
-### 2. Core Functionality and Components**
+**2. Core Functionality and Components**
 
 - **Low-Code Development:** The documentation highlights various low-code capabilities for building applications and workflows, including:
 - Working with records (creation, updates, bulk operations).
@@ -59,7 +59,7 @@ Hello there, you are reading the Coreza How-to guide, you can start with this gu
 - **Corteza Studio:** This is a key tool mentioned, possibly for visual development and connection management.
 - **Corteza Discovery:** The documentation refers to Corteza Discovery examples and indexing. This suggests a feature that provides visibility into platform resources and data.
 
-### 3. Development and Deployment
+**3. Development and Deployment**
 
 - **Installation:**Docker is the primary supported environment "Out of the box we support any system that can run Docker.".
 - Compilation is needed for non-Docker environments, suggesting flexibility in deployment "If you wish to deploy Corteza elsewhere (for example, bare metal) you will need to compile your own binaries.".
@@ -70,7 +70,7 @@ Hello there, you are reading the Coreza How-to guide, you can start with this gu
 - **Upgrade Process:**Changelogs and specific upgrade guides are essential for each version.
 - Emphasis that versions may not be backward compatible, so upgrades require careful planning. "Versions may **not be backwards compatible** and may need some additional work to get setup."
 
-### 4. Key Concepts and Technologies
+**4. Key Concepts and Technologies**
 
 - **Low Code:** Corteza is a Low-Code platform, allowing users to create functionality without writing large amounts of code.
 - **Corredor:** This is mentioned in server configuration, automation scripts, and helpers, suggesting it's a core component involved in processing workflows or logic.
@@ -78,22 +78,19 @@ Hello there, you are reading the Coreza How-to guide, you can start with this gu
 - **Corteza JS & Vue:** References are made to their structure, which suggests they're the primary client-side framework components.
 - **Data Privacy:** Sensitivity levels, Data Privacy Console, and a Data Privacy Officer role are mentioned, highlighting a commitment to data protection.
 
-### 5. Areas for Further Exploration
+**5. Areas for Further Exploration**
 
 - **Specific Examples:** The document mentions various "Examples" sections. Further review would benefit from exploring these sections in detail to see real-world use cases.
 - **Corteza Studio Functionality:** A closer look at how Corteza Studio facilitates development would be beneficial.
 - **Federation Details:** Node pairing, syncing, security, and logging within the context of Corteza Federation.
 
-### 6. Summary of Core Themes
+**6. Summary of Core Themes**
 
 - **Trust and Control:** Corteza emphasizes that users should have control over the platform, with a secure environment and trustworthy development practices.
 - **Flexibility:** The platform provides numerous customization and extensibility options.
 - **Integration:** Corteza seems to integrate various functions of a business including workflow, CRM, data integration, reporting and data management.
 
 Corteza presents itself as a powerful, flexible, and trustworthy open-source low-code platform. The focus on security, user control, and extensibility indicates its suitability for organizations seeking a customizable digital work platform. Further investigation, particularly of the practical examples and specific tool components, is recommended to gain a deeper understanding of its full capabilities.
-</details>
-
-
 
 ## 2. How to set up a Corteza instance?
 
